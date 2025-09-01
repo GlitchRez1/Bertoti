@@ -15,3 +15,4 @@ Entretanto, isso pode aumentar a latência da comunicação entre partes e dific
 ## Segurança vs. Usabilidade
 Implementar autenticação forte e várias camadas de proteção deixa o sistema mais seguro.
 Mas, isso pode deixar a experiência do usuário mais lenta ou complicada.
+<h1 align="center"> Tarefa 4 </h1>
