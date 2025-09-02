@@ -16,5 +16,7 @@ Entretanto, isso pode aumentar a latência da comunicação entre partes e dific
 Implementar autenticação forte e várias camadas de proteção deixa o sistema mais seguro.
 Mas, isso pode deixar a experiência do usuário mais lenta ou complicada.
 <h1 align="center"> Tarefa 4 </h1>
-<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/0f193438-50c2-423c-9da4-91d4b5343e8b" />
+https://lucid.app/lucidchart/24944b89-c34b-4e22-9ffb-3f76027068da/edit?viewport_loc=-1860%2C480%2C2216%2C1220%2C0_0&invitationId=inv_52d4e6da-8258-4fb2-8abd-0a471e10ddc6
+<img width="1170" height="686" alt="image" src="https://github.com/user-attachments/assets/6ee2f531-4cab-49ee-8fda-88c754c402c3" />
+
 <h1 align="center"> Tarefa 5 </h1>
