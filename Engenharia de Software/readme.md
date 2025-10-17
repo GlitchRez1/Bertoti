@@ -24,3 +24,5 @@ A classe DiagramaUmlBertodi é a main, seguidas das classes Player e Arma.
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c049238e-bfcc-46e9-9526-39c5129f6584" />
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f33992ed-2c83-4728-819f-33ffadef1e3e" />
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e6d6b485-245e-4e44-a434-bce57b6d8f07" />
+<h1 align="center"> Tarefa 6 </h1>
+Dentro da tarefa 5.
